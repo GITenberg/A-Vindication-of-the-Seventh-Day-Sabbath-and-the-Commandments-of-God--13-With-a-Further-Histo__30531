@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25106
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Bates_(Adventist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30531#A-Vindication-of-the-Seventh-Day-Sabbath-and-the-Commandments-of-God--13-With-a-Further-Histo_
 gutenberg_issued: '2009-11-23'
 gutenberg_type: Text
 identifiers:
